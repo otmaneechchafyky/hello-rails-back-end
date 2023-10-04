@@ -37,6 +37,8 @@
 - Ruby on Rails
 - PSQL
 
+<h2> Link to Frontend repo </h2>
+- https://github.com/otmaneechchafyky/hello-react-front-end/pull/1
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
